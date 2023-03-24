@@ -1,0 +1,10 @@
+gene-LOC119915903	RevisedGeneName1
+rna-XR_005447031.1	RevisedGeneName2
+gene-LOC119915829	RevisedGeneName3
+rna-XR_005447007.1	RevisedGeneName4
+id-LOC119915940	RevisedGeneName5
+gene-LOC119915951	RevisedGeneName6
+exon-XR_005447010.1-1	RevisedGeneName7
+exon-XR_005447052.1-1	RevisedGeneName8
+rna-XR_005447052.1	RevisedGeneName9
+gene-LOC119915917	RevisedGeneName10
